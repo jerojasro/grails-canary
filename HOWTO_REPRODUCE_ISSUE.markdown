@@ -15,3 +15,6 @@ yields the same result, showing that the changes are not being persisted.
 
 OTOH, saving data with `flush: true` does persist the changes, as demonstrated
 in, e.g., `http://localhost:8080/grails-canary/test/sudoIncreaseOrElse?id=1`
+
+
+## Grails version used: 2.4.5
